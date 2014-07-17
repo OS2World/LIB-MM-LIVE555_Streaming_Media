@@ -1,0 +1,40 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: live.2012.01.26.zip
+       Short Description: LIVE555 Streaming Media 2012.01.26
+        Long Description: LIVE555 Streaming Media 2012.01.26
+This code forms a set of C++ libraries for multimedia streaming, using open
+standard protocols (RTP/RTCP, RTSP, SIP). These libraries - which can be
+compiled for Unix (including Linux and Mac OS X), Windows, and QNX (and other
+POSIX-compliant systems) - can be used to build streaming applications. The
+libraries are already being used to implement applications such as "the
+LIVE555 Media Server" (a RTSP server application), "liveCaster" and
+"playRTPMPEG" (for streaming MP3 audio using RTP/RTCP), and "vobStreamer" (for
+streaming DVD content using RTP/RTCP/RTSP). The libraries can also be used to
+stream, receive, and process MPEG, H.264, H.263+, DV or JPEG video, and several
+audio codecs. They can easily be extended to support additional (audio and/or
+video) codecs, and can also be used to build basic RTSP or SIP clients and
+servers, and have been used to add streaming support to existing media player
+applications, such as "VLC" and "MPlayer".
+
+      Proposed directory
+           for placement: /pub/os2/dev/mm
+
+               Your name: KO Myung-Hun
+           Email address: komh@chollian.net
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: 
+ Additional requirements: kLIBC v0.6.4
+
+                Replaces: (none)
+
+
+
